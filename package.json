@@ -1,0 +1,16 @@
+{
+	"name": "HashChain",
+	"version": "0.1",
+	"description": "A demonstration of blockchain basics",
+	"scripts": {
+		"start": "node server",
+		"watch": "nodemon server"
+	},
+	"dependencies": {
+		"body-parser": "^1.15.2",
+		"express": "^4.14.0",
+		"nodemon": "1.11.0",
+		"vue": "^2.1.10",
+		"vue-resource": "^1.0.3"
+	}
+}
