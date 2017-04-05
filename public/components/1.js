@@ -9,4 +9,5 @@ Vue.component('component1', {
 	},
 	template:`
 		<div>Hi from component 1</div>
+		`
 })

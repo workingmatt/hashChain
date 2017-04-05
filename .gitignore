@@ -1,2 +1,5 @@
-dependencies/
-
+.git
+.gitignore
+*.log
+public/dependencies/
+node_modules/
