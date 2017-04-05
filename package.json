@@ -1,6 +1,6 @@
 {
 	"name": "HashChain",
-	"version": "0.1",
+	"version": "0.1.0",
 	"description": "A demonstration of blockchain basics",
 	"scripts": {
 		"start": "node server",
