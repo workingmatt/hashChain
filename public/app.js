@@ -3,12 +3,13 @@
 var app = new Vue ({
 	el: "#vueComponent",
 	data: {
-		message: "Message from Vue"
+		initialHash: "00000005",
+		mattHash: "mattHash"
 	},
 	methods: {
-		vueAppMethod: function(){
-			console.log("vueAppMethod Called.");
-			this.message = "vueAppMethod Called";
+		update: function(msg){
+			console.log("app.js update method Called. "+msg);
+			return;
 		}
 	}
 
